@@ -1,5 +1,5 @@
 # Multivariate-Statistical-Analysis-R
-##Academic project on advanced multivariate statistical methods with implementation in R.
+## Academic project on advanced multivariate statistical methods with implementation in R.
 # پروژه درس آمار چند متغیره پیوسته ۲
 
 این یک پروژه جامع آکادمیک است که به بررسی و پیاده‌سازی عملی تکنیک‌های پیشرفته آمار چندمتغیره در نرم‌افزار R می‌پردازد.
